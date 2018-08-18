@@ -1,2 +1,2 @@
-# Create-Sign-up-Log-in-with-pure-javascript
-Create Signup/login with pure javascript
+# Create-Sign-up-sign-in-with-pure-javascript
+Create Signup/signin with pure javascript
